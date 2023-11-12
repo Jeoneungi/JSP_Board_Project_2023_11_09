@@ -554,6 +554,7 @@
 13-Nov-2023 04:19:30.157 정보 [Thread-1] org.apache.catalina.core.StandardService.stopInternal 서비스 [Catalina]을(를) 중지시킵니다.
 13-Nov-2023 04:19:30.169 정보 [Thread-1] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["http-nio-8081"]을(를) 중지시킵니다.
 13-Nov-2023 04:19:30.188 정보 [Thread-1] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["http-nio-8081"]을(를) 소멸시킵니다.
+<<<<<<< HEAD
 13-Nov-2023 04:37:12.630 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/10.1.15
 13-Nov-2023 04:37:12.636 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Oct 11 2023 23:38:40 UTC
 13-Nov-2023 04:37:12.636 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  10.1.15.0
@@ -592,3 +593,5 @@
 13-Nov-2023 04:41:56.037 정보 [Thread-1] org.apache.catalina.core.StandardService.stopInternal 서비스 [Catalina]을(를) 중지시킵니다.
 13-Nov-2023 04:41:56.047 정보 [Thread-1] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["http-nio-8081"]을(를) 중지시킵니다.
 13-Nov-2023 04:41:56.053 정보 [Thread-1] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["http-nio-8081"]을(를) 소멸시킵니다.
+=======
+>>>>>>> b5e8f2014231300ebc768e5f65746af60fa1e502
