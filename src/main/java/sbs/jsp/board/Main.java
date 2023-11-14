@@ -2,6 +2,6 @@ package sbs.jsp.board;
 
 public class Main {
   public static void main(String[] args) {
-    System.out.println("new hello world!!");
+    System.out.println("hello world!!");
   }
 }

@@ -5,8 +5,8 @@
 
 <%
   Rq rq = new Rq(request, response);
-  int dan = rq.getIntParam("dan");
-  int limit = rq.getIntParam("limit");
+  int dan = (int)rq.getAttr("dan");
+  int limit = (int)rq.getAttr("limit");
 %>
 
 <h1><%=dan%>단</h1>
